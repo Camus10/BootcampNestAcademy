@@ -4,7 +4,7 @@ Pertemuan 1
 Pertemuan 2
 - App Config
 - DB Config Typeorm
-- Databse Migrations
+- Database Migrations
 - Seeder
 - Transactional Database
 
