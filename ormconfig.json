@@ -1,0 +1,11 @@
+{
+  "type": "mysql",
+  "host": "localhost",
+  "port": "3306",
+  "username": "root",
+  "password": "camus_hh",
+  "database": "cashier",
+  "synchronize": false,
+  "logging": true,
+  "entities": ["dist/**/*.entity.js"]
+}
